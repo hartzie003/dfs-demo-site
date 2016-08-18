@@ -1,5 +1,5 @@
 ---
-layout: dfs
+layout: default
 title: Background Documents on Digital Financial Services
 ---
 

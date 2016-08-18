@@ -14,7 +14,7 @@
           <div class="header">
             <ul class="nav nav-pills pull-right">
               {% assign shorturl = page.url | replace:'index.html','' %}
-              {% for item in site.nav_dfs %}
+              {% for item in site.navigation %}
                 <li {% if item.link == shorturl %}class="active"{% endif %}>
                   <a href="{{ site.base }}{{ item.link }}">
                     {{ item.title }}

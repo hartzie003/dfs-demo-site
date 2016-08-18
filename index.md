@@ -1,5 +1,5 @@
 ---
-layout: dfs
+layout: default
 title: Digital Financial Services (DFS)
 ---
 
