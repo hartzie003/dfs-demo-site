@@ -18,7 +18,7 @@ permalink: /blog/:year/:month/:day/:title.html
 front_page_news: 8
 
 # Base pathname for links.
-base: 'dfs-demo-site'
+base: ''
 
 navigation:
     - title: Home
@@ -27,19 +27,5 @@ navigation:
       link: /who_we_are.html
     - title: What We Do
       link: /what_we_do.html
-    - title: Our Impact
-      link: /our_impact.html
-    - title: About DFS
-      link: /about_dfs.html
-    - title: News
-      link: /news.html
-
-# Rewriting of old path names.
-wiki_redirects:
-    People: people.html
-    Projects: research/
-    Publications: publications.html
-    Seminars: seminars.html
-    Funding: ''
-    Main_Page: ''
-
+    - title: Research Opportunities
+      link: /research_opportunities.html
